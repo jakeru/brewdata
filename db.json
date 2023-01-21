@@ -1,0 +1,47 @@
+{
+  "ispindel": [
+    {
+      "angle": 54,
+      "battery": 95.6,
+      "gravity": 9.82,
+      "temperature": 11.1,
+      "timestamp": 1669570906
+    },
+    {
+      "angle": 74,
+      "battery": 11.5,
+      "gravity": 9.82,
+      "temperature": 18.4,
+      "timestamp": 1669570908
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

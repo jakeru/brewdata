@@ -1,0 +1,5 @@
+#+title: Brew data
+
+For testing purposes. Should be reachable at:
+
+https://my-json-server.typicode.com/jakeru/brewdata
