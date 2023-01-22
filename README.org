@@ -3,3 +3,8 @@
 For testing purposes. Should be reachable at:
 
 https://my-json-server.typicode.com/jakeru/brewdata
+
+Since the max size is 10 KB, the =db.json= has been truncated.
+
+More data is available in =ispindel.json=. It contains all the readings as a
+JSON array.
